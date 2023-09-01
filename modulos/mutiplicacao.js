@@ -1,4 +1,4 @@
 var mutiplicacao = function (x,y) {
-  return (y * x);
+ return (x * y);
 }; 
 module.exports = mutiplicacao; 
